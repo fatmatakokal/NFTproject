@@ -3,4 +3,4 @@
 It is an Nft project created using HTML and CSS.
 
 <h3>Screenshot</h3>
-![](screen.gif)
+![](screen.gif)# NFT-project
